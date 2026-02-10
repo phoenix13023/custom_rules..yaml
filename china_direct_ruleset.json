@@ -1,0 +1,73 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "qq.com",
+        "qpic.cn",
+        "qlogo.cn",
+        "mmbiz.qpic.cn",
+        "wechat.com",
+        "weixin.com",
+        "weixinbridge.com",
+        "wxapp.tc.qq.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "jd.com",
+        "jd.hk",
+        "360buyimg.com",
+        "jdpay.com",
+        "jdcloud.com",
+        "360buy.com",
+        "3.cn",
+        "joybuy.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "alibaba.com",
+        "alicdn.com",
+        "alipay.com",
+        "aliyun.com",
+        "taobao.com",
+        "tmall.com",
+        "mybank.cn",
+        "cainiao.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "douyin.com",
+        "douyinpic.com",
+        "douyinvod.com",
+        "bytedance.com",
+        "bytecdn.cn",
+        "bytegoofy.com",
+        "bytednsdoc.com",
+        "toutiao.com",
+        "ixigua.com",
+        "pstatp.com",
+        "snssdk.com",
+        "amemv.com",
+        "bdurl.net",
+        "iesdouyin.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "xiaohongshu.com",
+        "xhslink.com",
+        "xhscdn.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "wechat",
+        "wxcdn",
+        "xhs"
+      ]
+    }
+  ]
+}

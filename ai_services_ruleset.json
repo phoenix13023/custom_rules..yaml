@@ -1,0 +1,90 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain": [
+        "www.4d4y.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "pqjc.site",
+        "zerotier.com",
+        "372372.xyz",
+        "anthropic.com",
+        "claude.ai",
+        "claudeusercontent.com",
+        "statsig.com",
+        "statsigapi.net",
+        "intercom.io",
+        "intercomcdn.com",
+        "sentry.io",
+        "segment.io",
+        "usefathom.com",
+        "auth0.com",
+        "openai.com",
+        "chatgpt.com",
+        "oaistatic.com",
+        "oaiusercontent.com",
+        "ai.com",
+        "openaiapi-site.azureedge.net",
+        "featuregates.org",
+        "identrust.com",
+        "arkoselabs.com",
+        "stripe.com",
+        "algolia.net",
+        "livekit.cloud"
+      ]
+    },
+    {
+      "domain": [
+        "chat.com",
+        "sora.com",
+        "cdn.usefathom.com",
+        "gemini.google.com",
+        "voice.telephony.goog"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "generativelanguage.googleapis.com",
+        "proactivebackend-pa.googleapis.com",
+        "alkalicontent-pa.googleapis.com",
+        "deepmind.com",
+        "ai.google.dev",
+        "aistudio.google.com",
+        "kaggle.com",
+        "tensorflow.org",
+        "tfhub.dev",
+        "googleapis.com",
+        "gstatic.com",
+        "googleusercontent.com",
+        "googlevideo.com",
+        "youtube.com",
+        "gmail.com",
+        "blogger.com",
+        "chrome.com",
+        "googledrive.com",
+        "googleplay.com",
+        "google.com"
+      ]
+    },
+    {
+      "domain_keyword": [
+        "google",
+        "gmail",
+        "blogspot",
+        "appspot"
+      ]
+    },
+    {
+      "ip_cidr": [
+        "172.110.32.0/21",
+        "173.194.0.0/16",
+        "216.73.80.0/20",
+        "74.125.0.0/16",
+        "2620:120:e000::/40"
+      ]
+    }
+  ]
+}
